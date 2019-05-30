@@ -1,5 +1,29 @@
 [
     {
+        "outputFile": "C:\\Users\\Arif\\StudioProjects\\healthkeeper\\HeaderListView\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-w500dp-v13\\values-w500dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "C:\\Users\\Arif\\.android\\build-cache\\38c9c9596c1a6f5716614932820f4017fcee976c\\output\\res\\values-w500dp\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 281,
+                        "endColumn": 54,
+                        "endOffset": 331
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "D:\\My Android Projects\\Healthkeeper\\HeaderListView\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-w500dp-v13\\values-w500dp-v13.xml",
         "map": [
             {
